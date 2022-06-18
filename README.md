@@ -17,10 +17,10 @@
 > - “There are two ways to write error-free programs; only the third one works.” (Alan J. Perlis)
 > - “Talk is cheap. Show me the code.” (Linus Torvalds)
   
-
 <div align="center">
- </div>
- <img src="https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/10 Best Free Drawing Software Programs1648746189412811.jpg">
+</div>
+  <div align="center">
+  <img [src="https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/10 Best Free Drawing Software Programs1648746189412811.jpg"]>
 </div>
 
 
