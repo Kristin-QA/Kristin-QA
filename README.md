@@ -1,5 +1,5 @@
 ### Hi there!👋
-#### My name is Kristina, I'm Software QA Automation Engineer from New York, US 💻 🌐
+#### My name is Kristina, I'm Software QA Automation Engineer from New York, US 💻 🌐   Glad to see you here!
 
 #### My LinkedIn profile:<div id="badges">
   <a href="https://www.linkedin.com/in/kristina-tablev/">
@@ -7,12 +7,21 @@
   </a>
 <div align="center">
 </div>
-  
+  <div align="center">
+  <img src="https://i.pcmag.com/imagery/roundups/02HDufdqeRUDu3tl0NnY2qZ-2.fit_lim.size_760x427.v1649351854.jpg">
+</div>
+
 #### My favorite (QA and programming related) quotes: 
 > - “Software testers do not make software; they only make them better.” (Anonymous) 
 > - “Never allow the same bug to bite you twice.” (Steve Maguire)
 > - “There are two ways to write error-free programs; only the third one works.” (Alan J. Perlis)
 > - “Talk is cheap. Show me the code.” (Linus Torvalds)
+  
+
+<div align="center">
+ </div>
+ <img src="https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/10 Best Free Drawing Software Programs1648746189412811.jpg">
+</div>
 
 
  ## :hammer_and_wrench: Languages and Tools :
