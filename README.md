@@ -20,7 +20,7 @@
 <div align="center">
 </div>
   <div align="center">
-  <img [src="https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/10 Best Free Drawing Software Programs1648746189412811.jpg"]>
+  <img src="https://www.hp.com/us-en/shop/app/assets/images/uploads/prod/10 Best Free Drawing Software Programs1648746189412811.jpg">
 </div>
 
 
