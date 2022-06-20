@@ -1,5 +1,5 @@
-### Hi there!👋
-#### My name is Kristina, I'm Software QA Automation Engineer from New York, US 💻 🌐   Glad to see you here!
+## Hi there!👋
+### My name is Kristina, I'm Software QA Automation Engineer from New York, US 💻 🌐   Glad to see you here!
 
 #### My LinkedIn profile:<div id="badges">
   <a href="https://www.linkedin.com/in/kristina-tablev/">
@@ -10,21 +10,8 @@
   <div align="center">
   <img src="https://i.pcmag.com/imagery/roundups/02HDufdqeRUDu3tl0NnY2qZ-2.fit_lim.size_760x427.v1649351854.jpg">
 </div>
-
-#### My favorite (QA and programming related) quotes: 
-> - “Software testers do not make software; they only make them better.” (Anonymous) 
-> - “Never allow the same bug to bite you twice.” (Steve Maguire)
-> - “There are two ways to write error-free programs; only the third one works.” (Alan J. Perlis)
-> - “Talk is cheap. Show me the code.” (Linus Torvalds)
   
-<div align="center">
-</div>
-  <div align="center">
-  <img src="https://marvel-b1-cdn.bc0a.com/f00000000075552/www.perforce.com/sites/default/files/image/2019-06/software%20integrity%20blog.jpg">
-</div>
-
-
- ## :hammer_and_wrench: Languages and Tools :
+   ## :hammer_and_wrench: Languages and Tools I use :
   <div>
   <img src=https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg title="Python" alt="Python" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45"       height="45"/>&nbsp;
@@ -41,3 +28,20 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm"width="55"/>&nbsp;            
     <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="55"/>&nbsp;     
   
+
+
+<div align="center">
+</div>
+  <div align="center">
+  <img src="https://marvel-b1-cdn.bc0a.com/f00000000075552/www.perforce.com/sites/default/files/image/2019-06/software%20integrity%20blog.jpg">
+</div>
+
+
+### My favorite (QA and programming related) quotes: 
+> - “Software testers do not make software; they only make them better.” (Anonymous) 
+> - “Never allow the same bug to bite you twice.” (Steve Maguire)
+> - “There are two ways to write error-free programs; only the third one works.” (Alan J. Perlis)
+> - “Talk is cheap. Show me the code.” (Linus Torvalds)
+  
+
+
